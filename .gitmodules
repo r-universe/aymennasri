@@ -5,3 +5,6 @@
 [submodule "ggfootball"]
 	path = ggfootball
 	url = https://github.com/aymennasri/ggfootball
+[submodule "tndata"]
+	path = tndata
+	url = https://github.com/aymennasri/tndata
